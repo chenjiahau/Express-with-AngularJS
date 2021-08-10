@@ -1,5 +1,5 @@
 {
-  "name": "express-with-angularjs",
+  "name": "chat-with-socketio",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
